@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# MaGaroo's manual added files
+.idea/
+db.sqlite3
