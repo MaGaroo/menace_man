@@ -11,6 +11,7 @@ You can simply run a version of this project on your server using this piece
 of bash code:
 
 ```
+$ pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver 0.0.0.0:8000
 ```
